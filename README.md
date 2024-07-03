@@ -7,4 +7,3 @@ Team Members
 - Eddie Powers
 
 # Data Provided by Kaggle
-https://www.kaggle.com/code/ddosad/automobile-sales-visual-eda/comments
