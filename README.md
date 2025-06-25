@@ -4,7 +4,8 @@ Welcome to our Machine Learning Labs repository. This collection includes a seri
 
 Each lab highlights a different aspect of the machine learning pipeline, including data exploration, model building, evaluation, and deep learning architectures.
 
-Labs Included
+Labs Included:
+
 Lab 1: Exploring Tabular Data
 
 Lab 2: Exploring Image Data
@@ -19,12 +20,13 @@ Lab 6: Convolutional Neural Networks (CNN)
 
 Lab 7: Sequential Networks
 
-Team Members
-Nino Castellano
+Team Members:
 
-Will Lahners
+- Nino Castellano
 
-Eddie Powers
+- Will Lahners
+
+- Eddie Powers
 
 
 
